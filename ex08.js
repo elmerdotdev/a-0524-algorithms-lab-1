@@ -4,4 +4,4 @@ function longestWord(text) {
   // your code here
 }
 
-console.error.longestWord('The duck loves bananas and grapes') // 'bananas'
+console.log(longestWord('The duck loves bananas and grapes')) // 'bananas'
